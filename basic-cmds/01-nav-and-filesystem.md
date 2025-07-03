@@ -28,7 +28,8 @@ Note: Directory means Folder
 ## 4. File Movement & Copying
 - `cp <filename1> <filename2>` : Copy file1 to file2
 - `cp -r <dirname1> <dirname2>` : Copy directory recursively 
-- `mv <oldname> <newname>` : Rename or move file/directory
+- `mv <oldname> <newname>` : Rename file/directory
+- `mv example.txt ~/Desktop/` : move file/directory
 
 ## 5. Viewing File & Paths
 - `<filename> name` : Show file type(binary, image, text etc)
