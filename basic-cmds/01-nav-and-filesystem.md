@@ -1,6 +1,8 @@
 # Navigation and File System Commands
 A Simple commands list for linux.
 
+`clear` : Clear your terminal
+
 ## 1. Navigation Commands
 Note: Directory means Folder 
 
@@ -32,10 +34,10 @@ Note: Directory means Folder
 - `mv example.txt ~/Desktop/` : move file/directory
 
 ## 5. Viewing File & Paths
-- `<filename> name` : Show file type(binary, image, text etc)
+- `file <filename>` : Show file type(binary, image, text etc)
 - `stat <filename>` : Display detailed info about the file
-- `basename path` : Show filename from full path
-- `<dirname> path` : Show directory name from full path
+- `basename <path>` : Show filename from full path
+- `<dirname> <path>` : Show directory name from full path
 - `realpath <filename>` : Show absolute path to a file
 
 ## 6. File system Structure Tools
@@ -43,4 +45,4 @@ Note: Directory means Folder
 - `du -sh <dirname>` : Show total size of directory
 - `lsblk` : List block devices 
 - `mount` : Mount a filesystem
-- `unmount` : Unmount a filesystem
+- `umount <mount_point>` : Unmount a filesystem
