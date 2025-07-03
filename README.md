@@ -6,10 +6,10 @@ This repository is a growing collection of Linux system resources all in one pla
 ## What all you can find here
 
 ### 1. Basic Linux Commands
-- File management (`ls`, `cd`, `cp`, `mv`, etc.)
-- Permissions (`chmod`, `chown`)
-- Networking tools (`ping`, `ifconfig`, `netstat`)
-- Process and memory (`ps`, `top`, `htop`, `kill`)
+- File management 
+- Permissions
+- Networking tools
+- Process and memory 
 
 ### 2. Editors: Vim & Nano
 - Nano shortcuts and editing flow
