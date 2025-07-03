@@ -1,4 +1,4 @@
-# 🐧 Linux-System Repository
+# Linux-System Repository
 This repository is a growing collection of Linux system resources all in one place. As I continue learning Linux, I’ll keep updating it with everything I explore and practice, from basic commands to advanced system internals.
 
 
