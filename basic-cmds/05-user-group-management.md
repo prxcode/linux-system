@@ -51,7 +51,7 @@ Note: On some systems, the admin group may be called `wheel` instead of `sudo`.
 
 
 
-## 📌 Common Scenarios
+## Common Scenarios
 `sudo su -` : to go to sudo mode
 - **Create a user and give admin rights:**  
   ```bash
