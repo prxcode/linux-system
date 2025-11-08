@@ -4,3 +4,4 @@
 - ls
 - cat readme
 - pass for lev 1: `ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If`
+- exit
